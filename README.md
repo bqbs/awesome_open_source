@@ -7,3 +7,6 @@
 
 ## Article
 - [详解使用 fastboot 为 Android 刷入原厂镜像](https://linux.cn/article-8054-1.html)
+
+## Tools
+- [Androiｄ Killer](http://www.cnblogs.com/common1140/p/5198460.html)
